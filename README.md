@@ -64,7 +64,7 @@ cm = mlcm.draw_cm(y_test, y_pred, classes, normalize=False)
 
 ## Authors
 
-* **Mario Damiano** - Github: [MDamiano](https://github.com/MDamiano) - Twitter: [@mardami7](https://twitter.com/mardami7) - e-mail: mdamiano91@gmail.com
+* **Mario Damiano** - Github: [MDamiano](https://github.com/MDamiano) - Twitter: [@astromariodam](https://twitter.com/astromariodam) - e-mail: mdamiano91@gmail.com
 
 ## License
 
